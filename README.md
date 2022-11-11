@@ -1,2 +1,7 @@
 # Tarea-3
 Repositorio de la tarea 3
+
+INTEGRANTES:
+-MATIAS MENDOZA VARGAS 
+2019771361
+
